@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "LogicaComparação_CamilaPassos.C": "cpp"
+        "LogicaComparação_CamilaPassos.C": "cpp",
+        "LogicaComparação_NivelAventureiro.C": "cpp",
+        "LogicaComparação_NivelIniciante.C": "cpp"
     }
 }
