@@ -157,9 +157,9 @@ int main() {
     printf("Carta 1: %.2f\n", soma1);
     printf("Carta 2: %.2f\n", soma2);
     printf("%s\n", 
-        soma1 > soma2 ? "🏆 Carta 1 venceu a rodada!" :
-        soma2 > soma1 ? "🏆 Carta 2 venceu a rodada!" :
-        "⚖️ Empate!"
+        soma1 > soma2 ? " Carta 1 venceu a rodada!" :
+        soma2 > soma1 ? " Carta 2 venceu a rodada!" :
+        " Empate!"
     );
 
     return 0;
